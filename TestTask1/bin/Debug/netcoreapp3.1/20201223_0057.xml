@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<ArrayOfNoteTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NoteTask>
+    <taskKey>1</taskKey>
+    <taskName>Продукты</taskName>
+    <taskDescription>Купить продукты</taskDescription>
+    <startDate>2019-05-10T00:00:00</startDate>
+    <isFinished>true</isFinished>
+  </NoteTask>
+  <NoteTask>
+    <taskKey>2</taskKey>
+    <taskName>Собака</taskName>
+    <taskDescription>Выгулять собаку</taskDescription>
+    <startDate>2019-09-01T00:00:00</startDate>
+    <isFinished>true</isFinished>
+  </NoteTask>
+  <NoteTask>
+    <taskKey>4</taskKey>
+    <taskName>Сервер</taskName>
+    <taskDescription>Настроить сервер </taskDescription>
+    <startDate>2020-01-01T00:00:00</startDate>
+    <isFinished>true</isFinished>
+  </NoteTask>
+  <NoteTask>
+    <taskKey>6</taskKey>
+    <taskName>Утилизация</taskName>
+    <taskDescription>Сдать стеклотару</taskDescription>
+    <startDate>2020-05-02T00:00:00</startDate>
+    <isFinished>false</isFinished>
+  </NoteTask>
+  <NoteTask>
+    <taskKey>7</taskKey>
+    <taskName>День рождения</taskName>
+    <taskDescription>Важно!</taskDescription>
+    <startDate>2020-07-10T00:00:00</startDate>
+    <isFinished>false</isFinished>
+  </NoteTask>
+  <NoteTask>
+    <taskKey>8</taskKey>
+    <taskName>Программа</taskName>
+    <taskDescription>Написать программу - редактор заметок (уровень 2)</taskDescription>
+    <startDate>2020-12-23T00:00:00</startDate>
+    <isFinished>true</isFinished>
+  </NoteTask>
+  <NoteTask>
+    <taskKey>9</taskKey>
+    <taskName>Диплом</taskName>
+    <taskDescription>Получить диплом</taskDescription>
+    <startDate>2021-08-31T00:00:00</startDate>
+    <isFinished>false</isFinished>
+  </NoteTask>
+</ArrayOfNoteTask>

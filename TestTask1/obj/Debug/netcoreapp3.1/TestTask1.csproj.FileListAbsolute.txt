@@ -1,0 +1,13 @@
+C:\Users\Victor\source\repos\TestTask1\TestTask1\bin\Debug\netcoreapp3.1\TestTask1.exe
+C:\Users\Victor\source\repos\TestTask1\TestTask1\bin\Debug\netcoreapp3.1\TestTask1.deps.json
+C:\Users\Victor\source\repos\TestTask1\TestTask1\bin\Debug\netcoreapp3.1\TestTask1.runtimeconfig.json
+C:\Users\Victor\source\repos\TestTask1\TestTask1\bin\Debug\netcoreapp3.1\TestTask1.runtimeconfig.dev.json
+C:\Users\Victor\source\repos\TestTask1\TestTask1\bin\Debug\netcoreapp3.1\TestTask1.dll
+C:\Users\Victor\source\repos\TestTask1\TestTask1\bin\Debug\netcoreapp3.1\TestTask1.pdb
+C:\Users\Victor\source\repos\TestTask1\TestTask1\obj\Debug\netcoreapp3.1\TestTask1.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\TestTask1\TestTask1\obj\Debug\netcoreapp3.1\TestTask1.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\TestTask1\TestTask1\obj\Debug\netcoreapp3.1\TestTask1.AssemblyInfo.cs
+C:\Users\Victor\source\repos\TestTask1\TestTask1\obj\Debug\netcoreapp3.1\TestTask1.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\TestTask1\TestTask1\obj\Debug\netcoreapp3.1\TestTask1.dll
+C:\Users\Victor\source\repos\TestTask1\TestTask1\obj\Debug\netcoreapp3.1\TestTask1.pdb
+C:\Users\Victor\source\repos\TestTask1\TestTask1\obj\Debug\netcoreapp3.1\TestTask1.genruntimeconfig.cache
